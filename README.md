@@ -1,1 +1,1 @@
-This repository includes class and lab assignments from Data Structures & Algorithms.
+This repository includes class assignments from Data Structures & Algorithms.
